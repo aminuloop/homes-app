@@ -5,7 +5,7 @@
 
 - Clone this branch to your local machine
 
-  `git clone -b https://github.com/aminuloop/homes-app.git`
+  `git clone https://github.com/aminuloop/homes-app.git`
 
 - Once the code has been downloaded
 
